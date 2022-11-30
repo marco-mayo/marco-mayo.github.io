@@ -9,9 +9,9 @@
 }
 
 body { 
-    background-image: url(sources/Wireframe\ -\ 1.jp);
+    background-image: url(sources/Wireframe\ -\ 1.jpg);
     background-repeat: no-repeat;
-    max-height: 1080px;
+    background-size: cover;
 }
 
 a {
@@ -22,6 +22,6 @@ p {
 }
 
 span {
-  color: #FFF500;
+  color: #fff700;
 }
 
